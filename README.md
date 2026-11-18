@@ -24,8 +24,9 @@ Even though I wanted it to look real, I left intentional red  careful employees 
 *The Goal was to Look at the data after the fake phishing email was sent out and decide
 which teams needed extra help. Then i was given different department that the most likely to accept or click a phishing email as an example:
 <img width="786" height="438" alt="Screenshot 2026-11-18 025714" src="https://github.com/user-attachments/assets/65528dce-c03c-4c56-9887-5f82a710b474" />it was HR and Marketing
-*Then the showed me how to write a report and to not make it boring for those two team because they dont really understand IT stuff.
-Then they showed me how to make my report much better .
+*Then the showed me how to write a report and to not make it boring for those two team because they dont really understand IT stuff.Report sample:
+<img width="1325" height="466" alt="Screenshot 2026-11-18 030410" src="https://github.com/user-attachments/assets/052cde54-1b8c-472c-a97e-1b428f30c827" />
+Then they showed me how to make my report much better,i really learned alot.
 
 *What i learned
 A good phishing email test need to be balance  If a test email is too fake, you learn nothing. If
