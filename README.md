@@ -12,8 +12,6 @@ design a realistic phishing test for employees and figure out how to train the t
 *Fixing a weak phishing email: the goal was to take a poorly written phishing email draft and make it convincing enough
 for an internal company security test.
 *My Approach: the original draft was too obvious there was some bad grammar  and sounded fake, meaning almost no one would click it and we wouldn't get useful test data.
-*This is the screenshot of that fake email
-<img width="991" height="528" alt="Screenshot 2026-11-18 023419" src="https://github.com/user-attachments/assets/c950b471-b9fc-45be-ab83-7f2b6726b9b6" />
 *This is the email i wrote in response
 <img width="955" height="413" alt="Screenshot 2026-11-18 023628" src="https://github.com/user-attachments/assets/8d865785-f284-43d8-bb0c-49431f56a85d" />
 *The clues that i added 
