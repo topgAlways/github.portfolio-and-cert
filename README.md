@@ -1,4 +1,4 @@
-# Mastercard Cybersecurity Virtual Experience (Forage) Introductory
+# Mastercard Cybersecurity Virtual Experience 
 
 #About This Project
 
